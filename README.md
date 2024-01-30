@@ -16,8 +16,10 @@ const ashraf = {
 ```
 </details>
 
-
-(https://github-readme-stats.vercel.app/api?username=VicSDN)]
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=VicSDN&show_icons=true&theme=radical&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=VicSDN&hide_langs_below=.25&theme=radical">
+</p>
 
  🌱 I’m currently learning and collaborate with @factoriaf5
 
