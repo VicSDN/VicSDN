@@ -4,28 +4,19 @@
 const ashraf = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
-    technologies:{
         backEnd: ["nodejs", "java", "python"],
-        fronEnd: ["html" , "css" , "javascript],
-        
+        fronEnd: ["html" , "css" , "javascript],   
         database: ["mySql"],
-        devOps: ["AWS", "Nginx", "Jenkins"],
+        devOps: ["AWS",
 
     },
 }
 ```
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VicSDN)](https://github.com/VicSDN/github-readme-stats)
-<!--
-**VicSDN/VicSDN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(https://github-readme-stats.vercel.app/api?username=VicSDN)]
 
-Here are some ideas to get you started:
+ 🌱 I’m currently learning and collaborate with @factoriaf5
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormenendez-fsd)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/VictorSDN)
+
+
