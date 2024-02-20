@@ -8,7 +8,7 @@ const VicSDN = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
         backEnd: ["nodejs", "java", "python"],
-        fronEnd: ["html" , "css" , "javascript],   
+        fronEnd: ["html" , "css" , "javascript","react"],   
     },
 }
 ```
