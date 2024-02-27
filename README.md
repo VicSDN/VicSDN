@@ -6,7 +6,7 @@
 ```javascript
 const VicSDN = {
     pronouns: "He" | "Him",
-    askMeAbout: ["app dev", "web dev", "tech"],
+    askMeAbout: ["app dev", "web dev", "tech","node.js"],
         backEnd: ["nodejs", "java", "python"],
         fronEnd: ["html" , "css" , "javascript","react"],   
     },
