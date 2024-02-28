@@ -15,6 +15,7 @@ const VicSDN = {
 </details>
 
 # 💫 About Me:
+I am passionate about web development with experience in various technologies and programming languages. I have created attractive and functional user interfaces using HTML, CSS, and JavaScript, and I have worked with modern frameworks such as React, Angular, and Vue.js. Additionally, I have experience in server-side development with Java and Python. I am always looking to learn and stay updated with the latest trends and technologies in the field of web development. I am excited about the opportunity to contribute and work as part of a team on innovative projects that make the most of my skill set.
 🌱 I’m currently learning and collaborate with @factoriaf5
 
 
